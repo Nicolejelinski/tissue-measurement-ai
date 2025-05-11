@@ -24,9 +24,9 @@ Solução de IA para medição precisa de tecidos biológicos e leitura de peso 
 
 ### Instalação
 1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/Nicolejelinski/tissue-measurement-ai.git]
-    ```
+ ```bash
+  git clone [https://github.com/Nicolejelinski/tissue-measurement-ai.git]
+  ```
    Configure o OpenCV:
 
 2. Baixe o OpenCV e defina a variável de ambiente:
