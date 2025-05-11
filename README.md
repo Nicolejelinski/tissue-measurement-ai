@@ -32,7 +32,7 @@ Solução de IA para medição precisa de tecidos biológicos e leitura de peso 
 2. Baixe o OpenCV e defina a variável de ambiente:
 
   ```bash
-export OPENCV_DIR=/caminho/para/opencv
+export OPENCV_DIR=C:\opencv-4.5.5
   ```
 
 3. Execute o projeto:
